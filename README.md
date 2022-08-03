@@ -1,7 +1,11 @@
 <h1>hello!</h1>
 <p>heya! welcome to my github :) </p>
 <a href="https://microwave-on-a-fridge.github.io">
+<p>my website?</p>
+</a>
 <a href="https://twitter.com/KoenProduk">
+<p>twitter</p>
+</a>
 <p>any pronouns :)</p>
 <p>in case you couldnt tell i like smiley faces :))</p>
 
