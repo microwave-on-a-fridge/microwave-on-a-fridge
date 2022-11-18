@@ -7,7 +7,7 @@
 
 [the hodan channel](https://github.com/microwave-on-a-fridge/the-hodan-channel-ohdc)
 #### things i'm working on
-[fgc discord bot](https://github.com/microwave-on-a-fridge/fgcBot-REWRITE)
+various discord apps
 
 [my webpage](https://github.com/microwave-on-a-fridge/microwave-on-a-fridge.github.io)
 
