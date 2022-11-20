@@ -15,4 +15,4 @@ various discord apps
 <3
 </div>
 
-[]: # <a rel="me" href="https://mastodon.lol/@microwave_on_a_fridge">Mastodon</a>
+<!--- <a rel="me" href="https://mastodon.lol/@microwave_on_a_fridge">Mastodon</a> -->
