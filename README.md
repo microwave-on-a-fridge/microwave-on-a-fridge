@@ -29,7 +29,7 @@ heya! welcome to my github :)
   
 * placing 3rd in street fighter v at a local fgc event (or maybe it was 4th, idk i cant really remember)
   
-* coming 2nd at a fgc semi-major with my lovely team at capital punishment 2022
+* coming 2nd in rivals of aether at a fgc semi-major with my lovely team at capital punishment 2022
   
 * helping run the fighting game club at my highschool!
   
