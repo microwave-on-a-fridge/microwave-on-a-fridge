@@ -21,7 +21,7 @@ heya! welcome to my github :)
 ### personal achievements and shit
 * clearing dokidoki mune kyun omatsuri time in taiko no tatsujin nijiiro version
   
-* clearing rokuchounen to ichiya no monogatari in taiko no tatsujin nijiiro version
+* clearing rokuchounen to ichiya monogatari in taiko no tatsujin nijiiro version
   
 * full comboing roki in taiko no tatsujin nijiiro version
   
